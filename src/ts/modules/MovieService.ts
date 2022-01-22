@@ -12,7 +12,7 @@ export class MovieService implements IDataService{
      }
     getData() {
        
-        return "Data från MovieService"
+        return MovieService
     }
 
 }
